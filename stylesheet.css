@@ -1,0 +1,258 @@
+header {
+  height: 50px;
+  margin: 0 auto;
+}
+
+.topbar {
+  width: 1349px;
+  height: 50px;
+  margin: 0 auto;
+}
+
+.topbar-container {
+  width:1289px;
+  height: 34px;
+  padding: 7px 30px 8px 30px;
+  border-bottom: 1px solid grey;
+  float: left;
+  margin: 0 auto;
+}
+
+.top-left {
+  width: 200px;
+  height: 30px;
+  float: left;
+}
+
+.top-left li{
+  list-style: none;
+  float:left;
+}
+
+.bars {
+  display: inline-block;
+  margin-left: -7px;
+  width: 16px;
+  height: 30px;
+  padding: 0 10px;
+}
+
+.fa-bars:before {
+  content: "\f0c9";
+  font-size: 16px;
+}
+
+.fa-bars{
+  width: 16px;
+  height: 16px;
+}
+
+.topbar-logo{
+  width:110px;
+  height: 30px;
+  margin: 0 auto;
+}
+
+.youtubeicon {
+  content: "\f167";
+  font-size: 25px;
+}
+
+.youtubeicon{
+  display: inline-block;
+  width: 30px;
+  height: 26px;
+  color: red;
+}
+
+h1{
+  display: inline-block;
+  width: 70px;
+  height: 30px;
+  font-size: 100%;
+  margin: 0 auto;
+  text-align: center;
+  font-family: Alternate Gothic No. 2;
+}
+
+
+.top-right {
+  width: 1060px;
+  height: 34px;
+  float: left;
+}
+
+.top-right ul{
+  float: left;
+}
+
+.top-right li{
+  list-style: none;
+  float: left;
+}
+
+.top-right i{
+  float: left;
+}
+
+.search {
+  width: 850px;
+  height: 34px;
+}
+
+input {
+  width: 570px;
+  height: 23px;
+  padding: 2px 6px;
+}
+
+.mushimegane {
+  font-size: 15px;
+}
+
+.mark {
+  float: right;
+  width: 130px;
+  height: 28px;
+}
+
+
+.mark i{
+  display: inline-block;
+  float: left;
+}
+.mark img{
+  font-size: 27px;
+}
+
+
+main {
+  width: 1333px;
+  height: 2000px;
+  background-color: #EEEEEE;
+}
+
+.main-container {
+  width: 1066px;
+  height: 2000px;
+  background-color: #EEEEEE;
+  margin: 0 141.5px;
+  float: left;
+}
+
+.main-left {
+  width: 640px;
+  float: left;
+}
+
+.movie img{
+  width: 640px;
+  height: 360px;
+  margin-top: 15px;
+}
+
+
+.left-info1 {
+  width: 610px;
+  height: 150px;
+  padding: 15px;
+  background-color: white;
+  margin: 10px 0;
+}
+
+.movie-title {
+  width: 457.5px;
+  height: 48px;
+}
+
+.movie-title h1{
+  font-family: "YouTube Noto",Roboto,arial,sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  width: 406px;
+  height: 48px;
+  text-align: left;
+}
+
+.movie-icon {
+  padding: 10px 0;
+  border-bottom: 1px solid grey;
+}
+
+.icon-right {
+  margin-left: 40px;
+}
+
+.movie-icon img{
+  width: 48px;
+  height: 48px;
+  float: left;
+}
+
+.movie-icon p{
+  width: 130px;
+  height: 22px;
+  font-size: 11px;
+  margin-left: 60px;
+  font-weight: 550;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.movie-icon  a{
+  display: inline-block;
+  font-size: 12px;
+  float: left;
+}
+
+.icon-right {
+  width: 157px;
+  height: 24px;
+  padding-left: 20px;
+}
+
+.channel {
+  width: 110px;
+  height: 22px;
+  color: white;
+  background-color: red;
+  padding-left: 5px;
+  padding-right: 6px;
+}
+
+.fa-youtube:before {
+  font-size: 17px;
+}
+
+.fa-youtube{
+  width: 19px;
+  height: 18px;
+  color: white;
+  margin-top: 2px;
+}
+
+.people {
+  font-size: 3px;
+  width: 23px;
+  height: 22px;
+  padding: 0 6px;
+}
+
+.left-info2 {
+  width: 610px;
+  height: 92px;
+  padding: 15px;
+  margin-bottom: 10px;
+  background-color: white;
+}
+
+.main-right {
+  display: block;
+  width: 396px;
+  height: 2500px;
+  padding: 15px 15px 15px 5px;
+  background-color: white;
+  float: right;
+  background-color: white;
+  margin-top: 12px;
+}
